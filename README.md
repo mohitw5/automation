@@ -5,4 +5,8 @@ This repository contains automation for google search result in available langua
   Java, Selenium, TestNG
 
 ### Supported Browsers
-  Chrome, Firefox, Edge
+  Chrome, Firefox
+  
+### Execution
+Run the testng xml file.
+Update browser paramter value to [chrome, firefox] in testng.xml file accordingly
