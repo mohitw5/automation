@@ -42,27 +42,6 @@
       <artifactId>httpclient5</artifactId>
       <version>5.0.3</version>
     </dependency>
-<!--    &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-java &ndash;&gt;-->
-<!--    <dependency>-->
-<!--      <groupId>io.cucumber</groupId>-->
-<!--      <artifactId>cucumber-java</artifactId>-->
-<!--      <version>6.10.0</version>-->
-<!--    </dependency>-->
-
-<!--    &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-core &ndash;&gt;-->
-<!--    <dependency>-->
-<!--      <groupId>io.cucumber</groupId>-->
-<!--      <artifactId>cucumber-core</artifactId>-->
-<!--      <version>6.10.0</version>-->
-<!--    </dependency>-->
-
-<!--    &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-testng &ndash;&gt;-->
-<!--    <dependency>-->
-<!--      <groupId>io.cucumber</groupId>-->
-<!--      <artifactId>cucumber-testng</artifactId>-->
-<!--      <version>6.10.0</version>-->
-<!--    </dependency>-->
-
 
   </dependencies>
 
